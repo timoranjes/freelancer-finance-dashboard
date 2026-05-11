@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1B33"/>
+      <stop offset="100%" style="stop-color:#1B2A4A"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  
+  <!-- Top bar -->
+  <rect x="0" y="0" width="1280" height="60" fill="#1B2A4A"/>
+  <rect x="0" y="58" width="1280" height="2" fill="#D4A843"/>
+  <text x="40" y="38" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">Freelancer Finance Dashboard</text>
+  <text x="1100" y="38" font-family="Arial, sans-serif" font-size="14" fill="#D4A843">2026 Edition</text>
+  
+  <!-- KPI Cards -->
+  <rect x="40" y="90" width="180" height="80" rx="8" fill="#243556"/>
+  <text x="130" y="120" font-family="Arial, sans-serif" font-size="12" fill="#F5E6C8" text-anchor="middle">Total Income</text>
+  <text x="130" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#27AE60" text-anchor="middle">$17,800</text>
+  
+  <rect x="240" y="90" width="180" height="80" rx="8" fill="#243556"/>
+  <text x="330" y="120" font-family="Arial, sans-serif" font-size="12" fill="#F5E6C8" text-anchor="middle">Total Expenses</text>
+  <text x="330" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#E74C3C" text-anchor="middle">$4,881</text>
+  
+  <rect x="440" y="90" width="180" height="80" rx="8" fill="#243556"/>
+  <text x="530" y="120" font-family="Arial, sans-serif" font-size="12" fill="#F5E6C8" text-anchor="middle">Net Profit</text>
+  <text x="530" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#27AE60" text-anchor="middle">$12,919</text>
+  
+  <rect x="640" y="90" width="180" height="80" rx="8" fill="#243556"/>
+  <text x="730" y="120" font-family="Arial, sans-serif" font-size="12" fill="#F5E6C8" text-anchor="middle">Profit Margin</text>
+  <text x="730" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">72.6%</text>
+  
+  <rect x="840" y="90" width="180" height="80" rx="8" fill="#243556"/>
+  <text x="930" y="120" font-family="Arial, sans-serif" font-size="12" fill="#F5E6C8" text-anchor="middle">Tax Deductions</text>
+  <text x="930" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#F5E6C8" text-anchor="middle">$4,431</text>
+  
+  <rect x="1040" y="90" width="200" height="80" rx="8" fill="#243556"/>
+  <text x="1140" y="120" font-family="Arial, sans-serif" font-size="12" fill="#F5E6C8" text-anchor="middle">Est. Tax Due</text>
+  <text x="1140" y="155" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#E74C3C" text-anchor="middle">$2,156</text>
+  
+  <!-- Monthly Chart Area -->
+  <rect x="40" y="200" width="600" height="280" rx="8" fill="#243556"/>
+  <text x="60" y="230" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Monthly Income vs Expenses</text>
+  
+  <!-- Chart bars -->
+  <rect x="70" y="360" width="30" height="90" rx="3" fill="#27AE60" opacity="0.8"/>
+  <rect x="105" y="420" width="30" height="30" rx="3" fill="#E74C3C" opacity="0.8"/>
+  
+  <rect x="160" y="340" width="30" height="110" rx="3" fill="#27AE60" opacity="0.8"/>
+  <rect x="195" y="400" width="30" height="50" rx="3" fill="#E74C3C" opacity="0.8"/>
+  
+  <rect x="250" y="380" width="30" height="70" rx="3" fill="#27AE60" opacity="0.8"/>
+  <rect x="285" y="430" width="30" height="20" rx="3" fill="#E74C3C" opacity="0.8"/>
+  
+  <rect x="340" y="300" width="30" height="150" rx="3" fill="#27AE60" opacity="0.8"/>
+  <rect x="375" y="390" width="30" height="60" rx="3" fill="#E74C3C" opacity="0.8"/>
+  
+  <rect x="430" y="350" width="30" height="100" rx="3" fill="#27AE60" opacity="0.8"/>
+  <rect x="465" y="410" width="30" height="40" rx="3" fill="#E74C3C" opacity="0.8"/>
+  
+  <rect x="520" y="280" width="30" height="170" rx="3" fill="#27AE60" opacity="0.8"/>
+  <rect x="555" y="400" width="30" height="50" rx="3" fill="#E74C3C" opacity="0.8"/>
+  
+  <!-- Month labels -->
+  <text x="85" y="470" font-family="Arial" font-size="10" fill="#AAAAAA" text-anchor="middle">Jan</text>
+  <text x="175" y="470" font-family="Arial" font-size="10" fill="#AAAAAA" text-anchor="middle">Feb</text>
+  <text x="265" y="470" font-family="Arial" font-size="10" fill="#AAAAAA" text-anchor="middle">Mar</text>
+  <text x="355" y="470" font-family="Arial" font-size="10" fill="#AAAAAA" text-anchor="middle">Apr</text>
+  <text x="445" y="470" font-family="Arial" font-size="10" fill="#AAAAAA" text-anchor="middle">May</text>
+  <text x="535" y="470" font-family="Arial" font-size="10" fill="#AAAAAA" text-anchor="middle">Jun</text>
+  
+  <!-- Expense Breakdown -->
+  <rect x="680" y="200" width="560" height="280" rx="8" fill="#243556"/>
+  <text x="700" y="230" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Expense Breakdown</text>
+  
+  <!-- Pie-like bars -->
+  <rect x="700" y="260" width="250" height="22" rx="4" fill="#27AE60" opacity="0.7"/>
+  <text x="710" y="276" font-family="Arial" font-size="10" fill="#FFFFFF">Office Supplies — $110</text>
+  
+  <rect x="700" y="290" width="420" height="22" rx="4" fill="#3498DB" opacity="0.7"/>
+  <text x="710" y="306" font-family="Arial" font-size="10" fill="#FFFFFF">Equipment — $2,499</text>
+  
+  <rect x="700" y="320" width="180" height="22" rx="4" fill="#E67E22" opacity="0.7"/>
+  <text x="710" y="336" font-family="Arial" font-size="10" fill="#FFFFFF">Home Office — $300</text>
+  
+  <rect x="700" y="350" width="140" height="22" rx="4" fill="#9B59B6" opacity="0.7"/>
+  <text x="710" y="366" font-family="Arial" font-size="10" fill="#FFFFFF">Marketing — $260</text>
+  
+  <rect x="700" y="380" width="260" height="22" rx="4" fill="#E74C3C" opacity="0.7"/>
+  <text x="710" y="396" font-family="Arial" font-size="10" fill="#FFFFFF">Taxes &amp; Licenses — $1,500</text>
+  
+  <rect x="700" y="410" width="100" height="22" rx="4" fill="#F39C12" opacity="0.7"/>
+  <text x="710" y="426" font-family="Arial" font-size="10" fill="#FFFFFF">Other — $212</text>
+  
+  <!-- Bottom stats -->
+  <rect x="40" y="510" width="380" height="160" rx="8" fill="#243556"/>
+  <text x="60" y="540" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Quarterly Tax Schedule</text>
+  <text x="60" y="570" font-family="Arial" font-size="12" fill="#F5E6C8">Q1: Apr 15 — $539</text>
+  <text x="60" y="595" font-family="Arial" font-size="12" fill="#F5E6C8">Q2: Jun 15 — $539</text>
+  <text x="60" y="620" font-family="Arial" font-size="12" fill="#F5E6C8">Q3: Sep 15 — $539</text>
+  <text x="60" y="645" font-family="Arial" font-size="12" fill="#F5E6C8">Q4: Jan 15 — $539</text>
+  
+  <rect x="440" y="510" width="380" height="160" rx="8" fill="#243556"/>
+  <text x="460" y="540" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Top Clients</text>
+  <text x="460" y="570" font-family="Arial" font-size="12" fill="#27AE60">Acme Corp — $10,000</text>
+  <text x="460" y="595" font-family="Arial" font-size="12" fill="#27AE60">TechStart Inc — $3,325</text>
+  <text x="460" y="620" font-family="Arial" font-size="12" fill="#27AE60">MediaCo — $2,660</text>
+  <text x="460" y="645" font-family="Arial" font-size="12" fill="#27AE60">LocalShop — $1,500</text>
+  
+  <rect x="840" y="510" width="400" height="160" rx="8" fill="#243556"/>
+  <text x="860" y="540" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Key Metrics</text>
+  <text x="860" y="570" font-family="Arial" font-size="12" fill="#F5E6C8">5 Invoices Tracked</text>
+  <text x="860" y="595" font-family="Arial" font-size="12" fill="#F5E6C8">10 Expenses Logged</text>
+  <text x="860" y="620" font-family="Arial" font-size="12" fill="#F5E6C8">12 Expense Categories</text>
+  <text x="860" y="645" font-family="Arial" font-size="12" fill="#F5E6C8">Auto-calculating Dashboard</text>
+</svg>
