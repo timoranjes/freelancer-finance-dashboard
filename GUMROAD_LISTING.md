@@ -1,81 +1,46 @@
-# Freelancer Finance Dashboard & Tax Estimator — Gumroad Listing
+# Gumroad Listing Copy — Freelancer Finance Dashboard & Tax Estimator
 
-## Product Name
-Freelancer Finance Dashboard & Tax Estimator
+## Title
+Freelancer Finance Dashboard — Income Tracker, Expense Manager & Tax Estimator
 
-## Short Description (for card preview)
-All-in-one Google Sheets template for freelancers: track income, log expenses, estimate quarterly taxes, and visualize your finances. Works with Excel too.
+## Description
+Stop guessing how much tax you owe. This is a complete finance system built for freelancers — track income, log deductible expenses, and estimate quarterly taxes — all in one Google Sheet.
 
-## Full Description (Markdown)
+**What you get:**
+💰 **Income Tracker** — Record every client payment with date, project, invoice number, amount, payment status, and category. Auto-totals by category.
+🧾 **Expense Tracker** — 12 expense categories (Software, Office Supplies, Internet, Travel, Equipment, etc.) with deductibility flags. 10 sample expenses pre-loaded.
+📊 **Performance Dashboard** — 8 KPI cards: Total Income, Total Expenses, Net Income, Deductible Expenses, Est. Federal Tax, Est. State Tax, Est. Self-Employment Tax, and Total Estimated Tax.
+📅 **Quarterly Tax Schedule** — Auto-calculated estimated payments due each quarter based on your net income and tax rates.
 
-## 📊 Take Control of Your Freelance Finances
+**Features:**
+✅ Income breakdown by category (Design, Development, Consulting, Writing)
+✅ Expense breakdown with deductible vs non-deductible tracking
+✅ Net profit margin calculation
+✅ Configurable tax rates (federal, state, self-employment)
+✅ Supports all US states
+✅ Color-coded inputs (blue cells = your data)
+✅ Navy + gold professional design
+✅ Pre-loaded with sample data so you can see it working
 
-Managing income, expenses, and quarterly taxes as a freelancer shouldn't require expensive software. This **professional spreadsheet template** does everything you need in one place.
+**Who this is for:**
+US freelancers, contractors, and self-employed professionals who need to track finances and estimate taxes without expensive accounting software.
 
-### What You Get
+**Price: $29** (Launch price, will increase to $39)
 
-**💰 Income Tracking**
-- Log payments by client, invoice number, date, and project
-- Auto-calculates platform fees and net received
-- 50-row capacity with running totals
+**Tags:** freelancer finance, freelance taxes, expense tracker, income tracker, quarterly taxes, self-employed, google sheets template, tax estimator, budget spreadsheet, finance dashboard, 1099 taxes, deductible expenses
 
-**📤 Expense Logging**
-- 12 pre-configured business expense categories
-- Tax deductibility flags (Yes / Partial / No)
-- Auto-calculates deductible amounts — 50% for meals, full for business expenses
-- 90-row capacity
+## FAQ
+**Q: Is this for US taxes only?**
+A: Yes, this is designed for US federal and state tax estimation. The template supports configurable rates for all 50 states.
 
-**📊 Auto-Updating Dashboard**
-- Total income, expenses, net profit, profit margin
-- Estimated quarterly tax payments (self-employment + income tax)
-- Monthly income vs expense trends with cumulative totals
-- Expense breakdown by category with deductible amounts
-- Top client revenue analysis
-- 2026 quarterly tax payment schedule with deadlines
+**Q: Can I customize the tax rates?**
+A: Yes — the Setup tab lets you configure your filing status, federal bracket, state rate, and self-employment tax rate.
 
-### Perfect For
-- Freelancers & independent contractors
-- Consultants & agencies
-- Side hustlers tracking business income
-- Anyone who needs to estimate quarterly taxes
+**Q: Does this replace accounting software?**
+A: No, this is a tracking and estimation tool. For filing, consult a CPA or tax professional.
 
-### How to Use
-1. **Download** the template (instant delivery)
-2. **Open** in Google Sheets or Excel
-3. **Replace** sample data with your own records
-4. **Watch** your dashboard auto-update
+**Q: Do I need Excel or Google Sheets?**
+A: Google Sheets — it's free. Click the template link and you get your own copy instantly.
 
-### Compatibility
-- ✅ Google Sheets (recommended)
-- ✅ Microsoft Excel (2016+)
-- ✅ Apple Numbers (import)
-
-### What's Different From Free Templates?
-- **Professional design** — Navy + gold color scheme, clean layout
-- **Built-in tax estimation** — No need to calculate SE tax manually
-- **Quarterly payment schedule** — IRS deadlines pre-loaded
-- **Sample data included** — See exactly how to use it
-- **Works out of the box** — All formulas are pre-built, no setup needed
-
----
-
-**🎁 BONUS:** Complete Setup Guide PDF included with step-by-step instructions.
-
-## Tags
-freelance, finance, spreadsheet, google sheets, excel, template, tax estimator, expense tracker, income tracker, bookkeeping, quarterly taxes, freelancer tools, small business, accounting, financial dashboard
-
-## Price
-$29 (launch) → $39 (regular)
-
-## Suggested Variants
-| Tier | Price | What's Included |
-|------|-------|----------------|
-| Basic | $29 | Template + Setup Guide |
-| Pro | $39 | Template + Setup Guide + Expense Category Guide + Tax Tips PDF |
-| Premium | $49 | Everything + 15-min setup consultation |
-
-## Cover Image
-thumbnail.png (1280x720 PNG)
-
-## File to Upload
-Delivery_Instructions.pdf
+**Q: What's included in the deductible expenses tracking?**
+A: The expense tracker marks each expense as "Yes," "50%," or blank for deductibility. Common freelance deductions are pre-categorized.
